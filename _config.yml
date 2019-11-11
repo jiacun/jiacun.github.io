@@ -96,14 +96,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: jiacun
-    repo: https://jiacun.github.io/
+    repo: blog-comments
     oauth:
         client_id: 32745d73977438c89d07
         client_secret: 57c66c34dd2fd8fbb6a8c5077ac329c8702c0962
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: jiacun
-    repo: https://jiacun.github.io/
+    repo: blog-comments
     clientID: 32745d73977438c89d07
     clientSecret: 57c66c34dd2fd8fbb6a8c5077ac329c8702c0962
 # 在使用其它评论组件时可点击显示 Disqus
