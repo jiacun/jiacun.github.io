@@ -98,8 +98,8 @@ gitment:
     owner: jiacun
     repo: blog-comments
     oauth:
-        client_id: 
-        client_secret: 
+        client_id: 32745d73977438c89d07
+        client_secret: 57c66c34dd2fd8fbb6a8c5077ac329c8702c0962
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: jiacun
