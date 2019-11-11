@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://jiacun.github.io/
 date_format: "ordinal"
 title: 佳材
 subtitle: "打码改变人生"
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: jiacun/jiacun.github.io
 
 # ---------------- #
 #      Comments    #
