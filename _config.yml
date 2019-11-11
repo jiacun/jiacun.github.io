@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: 佳材
 subtitle: "打码改变人生"
 description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+keywords: 佳材, Zhuang Ma, mzlogin, mazhuang
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,7 +15,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: jiacun
 organization: 
 organization_url: 
 github_username: mzlogin
