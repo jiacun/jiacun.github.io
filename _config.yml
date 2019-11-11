@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 author: jiacun
 organization: 
 organization_url: 
-github_username: mzlogin
+github_username: jiacun
 location: Wuhan, China
 email: 1045514670@qq.com
 
@@ -104,8 +104,8 @@ gitment:
 gitalk:
     owner: jiacun
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: 32745d73977438c89d07
+    clientSecret: 57c66c34dd2fd8fbb6a8c5077ac329c8702c0962
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
