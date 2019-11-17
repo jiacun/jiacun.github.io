@@ -9,6 +9,9 @@ description: 一份简明的 laravel 教程
 2.环境配置文件.env
 3.路由文件web.php
 
-##路由
+## 路由
 1.routes/web.php文件
 2Route::;get('/',function(){return '输出'}
+***
+## 中间件
+1.创建中间件
